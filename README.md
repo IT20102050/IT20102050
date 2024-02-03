@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sharmini Wisidagama</h1>
-<h3 align="center">A passionate UI/UX Designer from Sri Lanka</h3>
+<h3 align="center">A passionate UI/UX Designer and also an Quality Assuarence Engineer from Sri Lanka</h3>
 
 <IMG ALIGN="RIGHT" ALT="CODING" WIDTH="400" SRC="https://shabiba.eu-central-1.linodeobjects.com/2021/11/1635840082-1635840082-r6o6whyjifac.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=it20102050&label=Profile%20views&color=0e75b6&style=flat" alt="it20102050" /> </p>
-
-- 💬 Ask me about **UI/UX design - Figma**
 
 - 📫 How to reach me **dona.sf.2019@gmail.com**
 
@@ -31,7 +29,7 @@
   
   <img  width="47%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IT20102050&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&theme=react" />
          
-  <img width="47%" height="200px" src="https://activity-graph.herokuapp.com/graph?username=IT20102050&bg_color=37383F&color=FFFFFF&line=FFFFFF&point=F8A427&hide_border=true&area=true&count_private=true"/>
+  <img width="47%" height="200px" src="https://images.rawpixel.com/image_600/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTA4L2ZyZWVpbWFnZXNjb21wYW55XzNkX3JlbmRlcl9jaGFyYWN0ZXJfY2FydG9vbl9vZl9naXJsX2Jvc3NfaXNvbF9iNTM5ZWRkMy1mOTRhLTRjZjctOTUwOC0yODc3MWZkZmNlZmZfMS5qcGc.jpg"/>
 
  </p>
  
