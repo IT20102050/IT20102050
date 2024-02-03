@@ -29,7 +29,7 @@
   
   <img  width="47%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IT20102050&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&theme=react" />
          
-  <img width="47%" height="200px" src="https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTA4L3Jhd3BpeGVsb2ZmaWNlOV8zZF93b3JraW5nX2J1c2luZXNzd29tZW5fd29ya2luZ19hdF9hbl9vZmZpY2VfZF9jODEyM2Q5My0xYmM4LTQzN2QtOGI3Mi1hY2E3YjVlNTU1MGVfMS5qcGc.jpg"/>
+  <img width="47%" height="200px" src="https://cdn.pixabay.com/photo/2023/05/30/09/23/ai-generated-8028032_1280.png"/>
 
  </p>
  
